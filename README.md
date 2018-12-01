@@ -1,2 +1,2 @@
-# dota_data_to_mysql
-从网上爬取需要的数据，写入Mysql
+# Read Data From Database Repo
+从数据库读取数据，对数据进行清理和格式化。以及展现出需要的数据！
